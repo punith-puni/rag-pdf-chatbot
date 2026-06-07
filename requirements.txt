@@ -4,6 +4,7 @@ langchain
 langchain-community
 faiss-cpu
 sentence-transformers
+langchain-text-splitters
 python-dotenv
 pypdf
 PyPDF2
